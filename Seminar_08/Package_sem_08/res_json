@@ -1,0 +1,117 @@
+[
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\new_users.csv",
+        "Type": "File",
+        "Size": 169
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\new_users.json",
+        "Type": "File",
+        "Size": 396
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\new_users.pickle",
+        "Type": "File",
+        "Size": 177
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\results.json",
+        "Type": "File",
+        "Size": 288
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\results.pickle",
+        "Type": "File",
+        "Size": 186
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\results.txt",
+        "Type": "File",
+        "Size": 650
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_01.py",
+        "Type": "File",
+        "Size": 1013
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_02.py",
+        "Type": "File",
+        "Size": 1770
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_03.py",
+        "Type": "File",
+        "Size": 1011
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_04.py",
+        "Type": "File",
+        "Size": 1641
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_05.py",
+        "Type": "File",
+        "Size": 758
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_06.py",
+        "Type": "File",
+        "Size": 1111
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Task_07.py",
+        "Type": "File",
+        "Size": 844
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\users.csv",
+        "Type": "File",
+        "Size": 136
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\users.json",
+        "Type": "File",
+        "Size": 167
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\users.pickle",
+        "Type": "File",
+        "Size": 111
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\__init__.py",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\new_dir",
+        "Type": "Directory",
+        "Size": 0
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Package_sem_08",
+        "Type": "Directory",
+        "Size": 7250
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Package_sem_08\\dz_task_01.py",
+        "Type": "File",
+        "Size": 5752
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Package_sem_08\\dz_task_02.py",
+        "Type": "File",
+        "Size": 697
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Package_sem_08\\test file.py",
+        "Type": "File",
+        "Size": 597
+    },
+    {
+        "Path": "C:\\Users\\iru\\PycharmProjects\\pythonProject1\\Seminar_08\\Package_sem_08\\__init__.py",
+        "Type": "File",
+        "Size": 204
+    }
+]
